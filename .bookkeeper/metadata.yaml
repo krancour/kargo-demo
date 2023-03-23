@@ -1,1 +1,3 @@
-{}
+imageSubstitutions:
+- nginx:1.23.3
+sourceCommit: e4256d6129cc24af5e5f54d73603bd8905b9a0f4
